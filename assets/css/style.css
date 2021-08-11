@@ -1,5 +1,5 @@
 /*
-Template Name: Elitex Admin - Responsive Admin Template 
+Template Name: Elitex Admin - Responsive Admin Template
 Author: Multipurpose Themes
 File: scss
 */
@@ -78,18 +78,18 @@ Waves
 /*Body*/
 @import url(color_theme.css);
 @import url(style_rtl.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/font-awesome/css/font-awesome.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/Ionicons/css/ionicons.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/themify-icons/themify-icons.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/linea-icons/linea.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/glyphicons/glyphicon.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/flag-icon-css/css/flag-icon.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/material-design-iconic-font/css/materialdesignicons.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/simple-line-icons/css/simple-line-icons.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/cryptocoins-master/cryptocoins.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/weather-icons/css/weather-icons.min.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/icons/iconsmind/style.css);
-@import url(http://elitex-admin-dashboard-template.akshartech.net/assets/vendor_components/animate/animate.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/font-awesome/css/font-awesome.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/Ionicons/css/ionicons.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/themify-icons/themify-icons.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/linea-icons/linea.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/glyphicons/glyphicon.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/flag-icon-css/css/flag-icon.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/material-design-iconic-font/css/materialdesignicons.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/simple-line-icons/css/simple-line-icons.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/cryptocoins-master/cryptocoins.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/weather-icons/css/weather-icons.min.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/icons/iconsmind/style.css);
+@import url(https://elitex-admin-dashboard-template.akshartech.net/assets/vendor_components/animate/animate.css);
 html {
   height: 100%;
   font-size: 14px; }
@@ -832,7 +832,7 @@ hr {
   left: 0; }
 
 /*******************
-Padding property 
+Padding property
 *******************/
 .p-0 {
   padding: 0px !important; }
@@ -3733,7 +3733,7 @@ Padding property
     padding-top: 100px !important;
     padding-bottom: 100px !important; } }
 /*******************
-Margin property 
+Margin property
 *******************/
 .m-0 {
   margin: 0px !important; }
@@ -6634,7 +6634,7 @@ Margin property
     margin-top: 100px !important;
     margin-bottom: 100px !important; } }
 /*******************
-Width property 
+Width property
 *******************/
 .w-0 {
   width: 0px !important; }
@@ -9013,7 +9013,7 @@ Width property
   .max-w-lg-auto {
     max-width: auto; } }
 /*******************
-Height property 
+Height property
 *******************/
 .h-0 {
   height: 0px !important; }
@@ -13094,7 +13094,7 @@ body .main-header .navbar .nav > li.search-box > a:hover, body .main-header .nav
   position: relative;
   width: 100%;
   padding: 10px 0 10px;
-  background-image: url(http://elitex-admin-dashboard-template.akshartech.net/images/user-info.jpg); }
+  background-image: url(https://elitex-admin-dashboard-template.akshartech.net/images/user-info.jpg); }
   .user-panel:before, .user-panel:after {
     content: " ";
     display: table; }
@@ -17192,7 +17192,7 @@ time {
   100% {
     -moz-transform: scale(1);
     opacity: 0.0; } }
-@-webkit-keyframes "mappulse" {
+@-webkit-keyframes mappulse {
   0% {
     -webkit-transform: scale(0);
     opacity: 0.0; }
